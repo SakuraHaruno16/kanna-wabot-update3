@@ -78,7 +78,8 @@ global.wm = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚
 global.botdate = '❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}'
 
 // LOGO
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpgh
+global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+
 global.logo = fs.readFileSync('./src/logo3.jpg')
 global.thumb1 = 'https://telegra.ph/file/5a882b8558fd1d2bd03fa.jpg'
 global.thumb2 = 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg'
