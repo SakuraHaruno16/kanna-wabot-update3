@@ -1,1 +1,1 @@
-web: node . --server "kanna.data.json"
+web: node . --server "session.data.json"
